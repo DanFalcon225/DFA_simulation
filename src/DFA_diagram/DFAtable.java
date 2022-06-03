@@ -1,6 +1,6 @@
 /**
  * Current class aim to represent a simulation of deterministic finite automaton - DFA 
- * which was created in a group part
+ * 
  * 
  * DFA aim to accept the below language with specified subword 
  * 
