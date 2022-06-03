@@ -20,5 +20,11 @@ The below picture shows relevant tests using configuration sequence:
 
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/93957570/171965040-635b1ca2-2403-465e-ba7a-706a9ccfa862.png">
 
+Program itself consisted of two classes, first one is responsible for inner logic of DFA and
+second one is responsible for accepting a user input, pass it through the other class and print out the
+result to the user.
 
-
+Program is using a table-driven method to implement named DFA. In order to apply
+to a table approach into the program itself a multidimensional array needs to be used.
+Multidimensional array acts as a table and it is aim to store all transitions of the diagram.
+Each row of the 2D array is stands for the state and each element stored into the row for transition.
