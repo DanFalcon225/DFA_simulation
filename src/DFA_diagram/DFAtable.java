@@ -11,7 +11,7 @@
 package DFA_diagram;
 
 /**
- * @author Daniils Sokolovs - ID: 18019262
+ * @author Daniils Sokolovs
  * @version 15/12/2021
  */
 
